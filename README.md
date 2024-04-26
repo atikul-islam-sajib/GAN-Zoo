@@ -43,12 +43,6 @@ Explore the LSGAN project implemented using PyTorch by visiting the GitHub repos
 
 Explore the ACGAN project implemented using PyTorch by visiting the GitHub repository below:
 
-[ACGAN GAN GitHub Repository](https://github.com/atikul-islam-sajib/ACGAN)
-
-**ACGAN project Repository**
-
-Explore the ACGAN project implemented using PyTorch by visiting the GitHub repository below:
-
 [ACGAN GAN GitHub Repository](https://github.com/atikul-islam-sajib/AC-GAN)
 
 **pix2pix project Repository**
