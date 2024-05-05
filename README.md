@@ -32,6 +32,10 @@ Explore LSGAN that minimizes a least squares objective for generating higher qua
 Discover ACGAN which utilizes auxiliary classifiers to improve the learning process:
 - **[ACGAN Repository](https://github.com/atikul-islam-sajib/AC-GAN)**
 
+### SGAN (Semi Supervised GAN)
+Discover ACGAN which utilizes auxiliary classifiers to improve the learning process:
+- **[ACGAN Repository](https://github.com/atikul-islam-sajib/SGAN)**
+
 ### pix2pix
 Experience our pix2pix implementation for image-to-image translation using conditional adversarial networks:
 - **[pix2pix Repository](https://github.com/atikul-islam-sajib/pix2pix)**
