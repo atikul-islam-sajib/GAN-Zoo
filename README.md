@@ -47,3 +47,8 @@ Explore the SRGAN project, which focuses on enhancing image resolution through a
 ### CycleGAN
 Investigate the CycleGAN for powerful image-to-image translation tasks without paired data:
 - **[CycleGAN Repository](https://github.com/atikul-islam-sajib/CycleGAN)**
+
+### DiscoGAN
+Investigate the CycleGAN for powerful image-to-image translation tasks without paired data:
+- **[CycleGAN Repository](https://github.com/atikul-islam-sajib/DiscoGAN)**
+
