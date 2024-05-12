@@ -50,5 +50,5 @@ Investigate the CycleGAN for powerful image-to-image translation tasks without p
 
 ### DiscoGAN
 Investigate the CycleGAN for powerful image-to-image translation tasks without paired data:
-- **[CycleGAN Repository](https://github.com/atikul-islam-sajib/DiscoGAN)**
+- **[DiscoGAN Repository](https://github.com/atikul-islam-sajib/DiscoGAN)**
 
