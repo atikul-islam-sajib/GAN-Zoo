@@ -49,6 +49,11 @@ Investigate the CycleGAN for powerful image-to-image translation tasks without p
 - **[CycleGAN Repository](https://github.com/atikul-islam-sajib/CycleGAN)**
 
 ### DiscoGAN
-Investigate the CycleGAN for powerful image-to-image translation tasks without paired data:
+Investigate the DiscoGAN for powerful image-to-image translation tasks without paired data:
 - **[DiscoGAN Repository](https://github.com/atikul-islam-sajib/DiscoGAN)**
+
+### DualGAN
+Investigate the DualGAN for powerful image-to-image translation tasks without paired data:
+- **[DualGAN Repository](https://github.com/atikul-islam-sajib/DualGAN)**
+
 
