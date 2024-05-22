@@ -56,4 +56,8 @@ Investigate the DiscoGAN for powerful image-to-image translation tasks without p
 Investigate the DualGAN for powerful image-to-image translation tasks without paired data:
 - **[DualGAN Repository](https://github.com/atikul-islam-sajib/DualGAN)**
 
+  ### seGAN
+Investigate the DualGAN for powerful segmentation tasks without paired data:
+- **[DualGAN Repository](https://github.com/atikul-islam-sajib/segGAN)**
+
 
