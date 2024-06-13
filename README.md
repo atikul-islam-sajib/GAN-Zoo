@@ -44,6 +44,10 @@ Experience our pix2pix implementation for image-to-image translation using condi
 Explore the SRGAN project, which focuses on enhancing image resolution through adversarial training:
 - **[SRGAN Repository](https://github.com/atikul-islam-sajib/SRGAN)**
 
+### ESRGAN (Enhanced Super-Resolution GAN)
+Explore the ESRGAN project, which focuses on enhancing image resolution through adversarial training:
+- **[ESRGAN Repository](https://github.com/atikul-islam-sajib/ESRGAN)**
+
 ### CycleGAN
 Investigate the CycleGAN for powerful image-to-image translation tasks without paired data:
 - **[CycleGAN Repository](https://github.com/atikul-islam-sajib/CycleGAN)**
