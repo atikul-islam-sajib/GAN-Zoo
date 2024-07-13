@@ -64,4 +64,8 @@ Investigate the DualGAN for powerful image-to-image translation tasks without pa
 Investigate the DualGAN for powerful segmentation tasks without paired data:
 - **[DualGAN Repository](https://github.com/atikul-islam-sajib/segGAN)**
 
+  ### contextEncoder
+Feature Learning by Inpainting Context Encoders for Inpainting & Self-Supervised Learning(GAN)a:
+- **[contextEncoder Repository](https://github.com/atikul-islam-sajib/contextEncoder)**
+
 
