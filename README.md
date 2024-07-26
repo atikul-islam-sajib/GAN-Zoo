@@ -68,4 +68,9 @@ Investigate the DualGAN for powerful segmentation tasks without paired data:
 Feature Learning by Inpainting Context Encoders for Inpainting & Self-Supervised Learning(GAN)a:
 - **[contextEncoder Repository](https://github.com/atikul-islam-sajib/contextEncoder)**
 
+    ### CCGAN
+Feature Learning by Inpainting Context Conditional Encoders for Inpainting & Self-Supervised Learning(GAN)a:
+- **[CCGAN Repository](https://github.com/atikul-islam-sajib/CCGAN)**
+
+
 
