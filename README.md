@@ -72,7 +72,10 @@ Feature Learning by Inpainting Context Encoders for Inpainting & Self-Supervised
 Feature Learning by Inpainting Context Conditional Encoders for Inpainting & Self-Supervised Learning(GAN)a:
 - **[CCGAN Repository](https://github.com/atikul-islam-sajib/CCGAN)**
 
-  ### UNIT
+    ### coGAN
+  CoGAN (Coupled Generative Adversarial Networks) is a deep learning architecture designed for learning a joint distribution of multiple domains without the need for paired data
+- **[coGAN Repository](https://github.com/atikul-islam-sajib/coGAN)**
+  
 
 
 
