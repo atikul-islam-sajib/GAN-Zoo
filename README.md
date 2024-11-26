@@ -75,6 +75,10 @@ Feature Learning by Inpainting Context Conditional Encoders for Inpainting & Sel
     ### coGAN
   CoGAN (Coupled Generative Adversarial Networks) is a deep learning architecture designed for learning a joint distribution of multiple domains without the need for paired data
 - **[coGAN Repository](https://github.com/atikul-islam-sajib/coGAN)**
+
+      ### coGAN
+  CoGAN (Coupled Generative Adversarial Networks) is a deep learning architecture designed for learning a joint distribution of multiple domains without the need for paired data
+- **[coGAN Repository](https://github.com/atikul-islam-sajib/coGAN)**
   
 
 
